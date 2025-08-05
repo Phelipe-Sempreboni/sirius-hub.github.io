@@ -1,0 +1,17 @@
+title: Sirius Hub
+description: Formação em Dados, Negócios e Carreira
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# URLs
+baseurl: "" 
+url: "https://seu-usuario.github.io"
+
+# Navegação personalizada (opcional)
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name
