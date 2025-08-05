@@ -1,6 +1,6 @@
 title: Sirius Hub
 description: Formação em Dados, Negócios e Carreira
-theme: minima
+theme: just-the-docs
 markdown: kramdown
 plugins:
   - jekyll-feed
