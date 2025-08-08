@@ -14,7 +14,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'Phelipe-Sempreboni', // Usually your GitHub org/user name.
   projectName: 'sirius-hub.github.io', // Usually your repo name.
 
-  deploymentBranch: 'main', // ✅ ADICIONE ESSA LINHA
+  /*deploymentBranch: 'main', // ✅ ADICIONE ESSA LINHA*/
 
   presets: [
     [
