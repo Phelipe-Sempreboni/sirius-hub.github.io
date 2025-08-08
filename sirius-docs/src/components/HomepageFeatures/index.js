@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Sirius Hub',
+    title: 'Sirius Hub Education',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
