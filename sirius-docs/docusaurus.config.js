@@ -4,15 +4,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Sirius Docs',
+  tagline: 'Documentação oficial da Sirius sobre Engenharia e Qualidade de Dados',
+  url: 'https://Phelipe-Sempreboni.github.io',
+  baseUrl: '/sirius-hub.github.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Phelipe-Sempreboni', // Usually your GitHub org/user name.
+  projectName: 'sirius-hub.github.io', // Usually your repo name.
+
+  deploymentBranch: 'main', // ✅ ADICIONE ESSA LINHA
 
   presets: [
     [
@@ -22,13 +24,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/Phelipe-Sempreboni/sirius-hub.github.io/tree/main/sirius-docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/Phelipe-Sempreboni/sirius-hub.github.io/tree/main/sirius-docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
