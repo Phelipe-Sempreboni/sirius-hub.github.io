@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Phelipe-Sempreboni.github.io/sirius-hub.github.io/blog/</id>
-    <title>Sirius Hub Docs Blog</title>
+    <title>Sirius Hub Labs Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Phelipe-Sempreboni.github.io/sirius-hub.github.io/blog/"/>
-    <subtitle>Sirius Hub Docs Blog</subtitle>
+    <subtitle>Sirius Hub Labs Blog</subtitle>
     <icon>https://Phelipe-Sempreboni.github.io/sirius-hub.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
